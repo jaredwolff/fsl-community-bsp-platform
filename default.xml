@@ -6,7 +6,7 @@
   <remote fetch="https://git.yoctoproject.org/git" name="yocto"/>
   <remote fetch="https://github.com/Freescale" name="freescale"/>
   <remote fetch="https://github.com/openembedded" name="oe"/>
-  <remote fetch="https://github.com/resin-os" name"resinos"/>
+  <remote fetch="https://github.com/resin-os" name="resinos"/>
 
   <project remote="resinos" revision="v2.7.8" name="meta-resin" path="sources/meta-resin"/>
 

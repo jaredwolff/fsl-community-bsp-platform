@@ -8,7 +8,7 @@
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/resin-os" name="resinos"/>
 
-  <project remote="resinos" revision="v2.7.8" name="meta-resin" path="sources/meta-resin"/>
+  <project remote="resinos" revision="refs/tags/v2.7.8" name="meta-resin" path="sources/meta-resin"/>
 
   <project remote="yocto" revision="morty" name="poky" path="sources/poky"/>
   <project remote="yocto" revision="morty" name="meta-freescale" path="sources/meta-freescale"/>
